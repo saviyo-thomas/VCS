@@ -3,8 +3,8 @@ Project to write a program to count number of cars from a video input.
 
 ## Modules
 ### Detection
-#### YOLO, Tenserflow
+> YOLO, Tenserflow
 ### Tracking
-#### OpenCV (Centroid algorithm)
+>  OpenCV (Centroid algorithm)
 ### Counting
 ### Plotting
