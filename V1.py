@@ -1,7 +1,7 @@
 import cv2
 import time
 
-vid = cv2.VideoCapture('video2.mp4')
+vid = cv2.VideoCapture('video.mp4')
 
 ret, fr1 = vid.read()
 
