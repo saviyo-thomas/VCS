@@ -33,5 +33,9 @@ Using a counting line makes it easier to count vehicles moving in a certain dire
 
 ### Plotting
 > When the script exits the loop, the result file is opened and the result list element is
-appended
+appended.
 
+### Software requirements
+> Python
+> Tkinter (Python Library)
+> OpenCV (Python Library)
