@@ -12,7 +12,8 @@ count to a text file.
 ## Modules
 ### Analyse module
 
-> OpenCV (Centroid algorithm) 
+OpenCV (Centroid algorithm)
+
 Images are breaked down to sections and are ranked using tags, then the section with most
 tags as an object is deemed as an object. Tracking is achieved by associating target objects in
 sequential frames of a video. This association can be very hard to accomplish when the objects are
