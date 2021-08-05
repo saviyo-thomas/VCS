@@ -1,7 +1,7 @@
 import cv2
 import time
 
-vid = cv2.VideoCapture('video.mp4')
+vid = cv2.VideoCapture('D:\\Project\\mine\\VCS\\video.mp4')
 
 ret, fr1 = vid.read()
 
@@ -57,7 +57,7 @@ while vid.isOpened():
                 print("Vehicle Counter :" + str(cnt))
     cv2.putText(frm, "Vehicle Counter :"+ str(cnt), (450, 70), cv2.FONT_HERSHEY_SIMPLEX, 2, (0,0,255), 5)
     
-    #cv2.imshow('msk', msk)
+    cv2.imshow('msk', msk)
     cv2.imshow('og', frm)
     if cv2.waitKey(1) & 0xFF == ord('q'):
         break

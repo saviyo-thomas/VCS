@@ -55,7 +55,7 @@ while True:
     cv2.putText(frm1, "Vehicle Counter :"+ str(cnt), (450, 70), cv2.FONT_HERSHEY_SIMPLEX, 2, (0,0,255), 5)
 
 
-    #cv2.imshow('detector', dilatada)
+    cv2.imshow('detector', dilatada)
 
 
 

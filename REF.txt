@@ -1,0 +1,6 @@
+https://github.com/nicholaskajoh/ivy
+https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/
+https://pjreddie.com/darknet/yolo/
+https://docs.opencv.org/master/
+https://alphacoder.xyz/vehicle-counting/
+https://seaborn.pydata.org/#
